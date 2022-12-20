@@ -1,7 +1,4 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=　&fontSize=60" />
-</div>
-<div align=center>
 	<h4> ✨Languages✨ <h4>
 </div>
 <div align=center>
