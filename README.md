@@ -8,7 +8,6 @@
 
 <div align=center>
 	<br>
-	<br>
 	<h4> 💕 Languages 💕  <h4>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<h4> 💕 SNS 💕  <h4>
